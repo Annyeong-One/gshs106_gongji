@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## 1학년 6반 공지 페이지
 
-You can use the [editor on GitHub](https://github.com/Annyeong-One/gshs106_gongji/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+되는지는 모르겠다만 일단 테스트해봅시다 \
+언제 버려질지 모르는 사이크 입니다 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 8월 22일
+> 기타 : 화학 자료 다운빋기
 
-### Markdown
+### 8월 24일
+> 과제 : 정보과학 파이썬 기초 100제
+> 과제 : 수학 추가문제 풀기
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 8월 25일
+> 과제 : 물리 연습문제
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Annyeong-One/gshs106_gongji/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 날짜 미정 / 기타
+> 수행 : 생명과학 글쓰기, 자유주제이나 찬반 주장이 나와야 함)
+> 수행 : 생명과학 페임랩 3분발표 : 책 정해서 읽기
+> 기타 : 화학 5분발표 주제 선정하기
+> 기타 : 국어 도장판 가지고 다니기
+> 사심 : 백준을 합시다 백준
+> 사심 : 코포를 합시다 코포
