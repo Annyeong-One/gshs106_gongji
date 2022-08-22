@@ -1,8 +1,7 @@
 
 ## 1학년 6반 공지 페이지
-\
-적어도 매주 한번씩은 업데이트할 수 있도록 하겠습니다 
-
+적어도 매주 한번씩은 업데이트할 수 있도록 하겠습니다 \
+추가로 공지해야 할 게 있을 때 Issue나 Pull Request를 달아주시(거나 걍 카톡으로 보내주시)면 업데이트하겠습니다
 
 ### 8월 24일
 과제 : [정보과학 파이썬 기초 100제](http://koistudy.net/?mid=viewProblems&WORD=py&vw=10&SEARCH=0&SEARCH=0&SUBMIT=GO) \
