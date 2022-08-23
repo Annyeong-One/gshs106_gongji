@@ -8,7 +8,8 @@
 과제 : 수학 추가문제 풀기
 
 ### 8월 25일
-과제 : [물리 연습문제 13장](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8507&lectureOpenNo=10832)  (4,7,8,12,16,19,20,27)
+과제 : [물리 연습문제 13장](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8507&lectureOpenNo=10832)  (4,7,8,12,16,19,20,27) \
+수행 : 지구과학 단열선도그래프 분석
 
 ### 날짜 미정 / 기타
 수행 : 생명과학 글쓰기 : 자유주제이나 찬반 주장이 나와야 함 \
