@@ -1,7 +1,3 @@
----
-title: 1학년 6반 수행 공지
----
-
 # 1학년 6반 공지 페이지
 적어도 매주 한번씩은 업데이트할 수 있도록 하겠습니다 \
 추가로 공지해야 할 게 있을 때 Issue나 Pull Request를 달아주시(거나 걍 카톡으로 보내주시)면 업데이트하겠습니다
@@ -24,9 +20,9 @@ title: 1학년 6반 수행 공지
 사심 : [코포를 합시다 코포](https://codeforces.com/) \
 사심 : [앳코더를 합시다 앳코더](https://atcoder.jp/)
 
-### 끝난 일정
+## 끝난 일정
 
-#### ~~8월 22일~~
-~~기타 : [화학 자료 다운빋기](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8511&lectureOpenNo=10848)~~
+### ~~8월 22일~~
+기타 : [화학 자료 다운빋기](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8511&lectureOpenNo=10848)
 
 [메인 페이지](https://annyeong-one.github.io/ "유해 사이트 경고 : 해당 사이트는 유해성으로 -1회 신고된 웹사이트입니다. 들어갈 때 주의하십시오. - 국가정보원?") (들어가도 별 쓸데 없음)
