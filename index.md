@@ -16,6 +16,9 @@
 ### 9월 7일 (수)
 수행 : 정보과학 웹크롤링 발표 (이 페이지를 크롤링하는 사람은 없겠지?)
 
+### 9월 9일 (금)
+숙제 : 국어 학습지 채워오기
+
 ### 날짜 미정 / 기타
 수행 : 생명과학 글쓰기 - 자유주제이나 찬반 주장이 나와야 함 \
 수행 : 생명과학 페임랩 3분발표 - 책 정해서 읽고 [여기 적기](https://docs.google.com/spreadsheets/d/1POyX0LZAXkI3DPqHnJFp6fTGvIeY2MK0aqJ4uc_yzLY/edit?usp=sharing) \
