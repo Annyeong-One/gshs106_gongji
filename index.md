@@ -12,6 +12,7 @@
 
 ### 9월 1일 (목)
 + _숙제 : [물리 연습문제 14장](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8548&lectureOpenNo=10832) - 4,5,6,9,12,14,16,17,19,23,27,31_
++ 숙제 : 수학 학습지 채우기
 
 ### 9월 2일 (금)
 + 기타 : 체육대회 - 설곽 ~~바르~~이기자
