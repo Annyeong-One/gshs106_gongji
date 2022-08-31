@@ -3,7 +3,7 @@
 - 적어도 매주 한번씩은 업데이트할 수 있도록 하겠습니다. 말만 매주 한번이지 하루에도 몇번씩 업데이트하고 있습니다.
 - 추가로 공지해야 할 게 있을 때 Issue나 Pull Request를 달아주시(거나 걍 카톡으로 보내주시)면 업데이트하겠습니다.
 - 놀랍게도 제 1인1역은 **"수행평가 및 시험범위"** 공지입니다. 다른거는 틀려도 책임지지 않으니 ~~알 게 뭐야~~알아서 하세요.
-- **최근 업데이트 : 8월 31일 09시경**
+- **최근 업데이트 : 8월 31일 13시경**
 - _기울어진 일정 : 불확실한 일정_
 
 ### 8월 31일 (수)
@@ -18,7 +18,7 @@
 + 숙제 : [물리 연습문제 14장](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8548&lectureOpenNo=10832) - 4,5,6,9,12,14,16,17,19,23,27,31
 
 ### 9월 7일 (수)
-+ 수행 : 정보과학 웹크롤링 발표 (이 페이지를 크롤링하는 사람은 없겠지?)
++ 수행 : 정보과학 웹크롤링 발표
 + 숙제 : 수학 추가문제 및 프린트 채우기
 
 ### 9월 9일 (금)
@@ -30,9 +30,7 @@
 + 기타 : 화학 5분발표 - 주제 선정해 [여기 적기](https://docs.google.com/spreadsheets/d/1zoAqTt1K-QShH-oJtEsJizc6qr32gOkz7HzthEcg1uo/edit?usp=sharing) + 발표자료(선택) 있으면 [여기 업로드](https://drive.google.com/drive/folders/1x_2ZIfD2LNFTXuZ_wxCam0BzxlAE0gLb?usp=sharing)
 + 기타 : 국어 도장판 가지고 다니기
 + 기타 : 수학 창의활동 모음집 [링크](https://drive.google.com/drive/folders/0AOXBfQ3PnbvpUk9PVA) - 학교 계정으로 로그인
-+ 사심 : [백준을 합시다 백준](https://www.acmicpc.net/)
-+ 사심 : [코포를 합시다 코포](https://codeforces.com/)
-+ 사심 : [앳코더를 합시다 앳코더](https://atcoder.jp/)
++ 사심 : [코포 앳코더 등등 일정](https://www.acmicpc.net/contest/other/list)
 
 ## 끝난 일정
 
