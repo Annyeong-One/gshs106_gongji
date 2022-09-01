@@ -44,7 +44,7 @@
 + 기타 : 화학 5분발표 - 주제 선정해 [여기 적기](https://docs.google.com/spreadsheets/d/1zoAqTt1K-QShH-oJtEsJizc6qr32gOkz7HzthEcg1uo/edit?usp=sharing) + 발표자료(선택) 있으면 [여기 업로드](https://drive.google.com/drive/folders/1x_2ZIfD2LNFTXuZ_wxCam0BzxlAE0gLb?usp=sharing)
 + 기타 : 국어 도장판 가지고 다니기
 + 기타 : 수학 창의활동 모음집 [링크](https://drive.google.com/drive/folders/0AOXBfQ3PnbvpUk9PVA) - 학교 계정으로 로그인
-+ 사심 : [코포 앳코더 등등 일정](https://www.acmicpc.net/contest/other/list)
++ 사심 : [코포 앳코더 등등 일](https://www.acmicpc.net/contest/other/list)[정](https://ivark.github.io/)
 
 ## 끝난 일정
 
