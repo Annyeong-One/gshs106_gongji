@@ -3,6 +3,7 @@
 - 적어도 매주 한번씩은 업데이트할 수 있도록 하겠습니다. 말만 매주 한번이지 하루에도 몇번씩 업데이트하고 있습니다.
 - 추가로 공지해야 할 게 있을 때 Issue나 Pull Request를 달아주시(거나 걍 카톡으로 보내주시)면 업데이트하겠습니다.
 - 놀랍게도 제 1인1역은 **"수행평가 및 시험범위"** 공지입니다. 다른거는 틀려도 책임지지 않으니 ~~알 게 뭐야~~알아서 하세요.
+- 시간표 운영 변경의 공지는 8월 22일 공개된 [기초생명과학및실험II 강의계획서](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8531&lectureOpenNo=10856)를 기준으로 합니다.
 - **최근 업데이트 : 9월 1일 22시경**
 - _기울어진 일정 : 불확실한 일정_
 
@@ -21,11 +22,12 @@
 
 ### 9월 7일 (수)
 + 수행 : 정보과학 웹크롤링 발표
++ 수행 : 화학 [보일법칙 실험](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8574&lectureOpenNo=10848) - [MBL 설치](https://drive.google.com/drive/folders/1IHcsd_eN4P6u1xPuZRgnR4nPDBO9frlZ?usp=sharing) 필요
 + 숙제 : 수학 추가문제 및 프린트 채우기
 
 ### 9월 14일 (수)
 + **월요일 시간표로 운영**
-+ 수행 : 영어 Writing Task
++ 수행 : [영어 Writing Task](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8566&lectureOpenNo=10800)
 
 ### 9월 27일 (화)
 + **연구의 날**
