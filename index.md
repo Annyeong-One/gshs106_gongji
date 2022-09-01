@@ -8,6 +8,7 @@
 
 ### 9월 2일 (금)
 + 기타 : 체육대회 - 설곽 ~~바르~~이기자
++ 기타 : 재원이한테 모자 구매 고리대금 3300원 보내기 (7777023815382) ~~내가 3308원 보냈으니까 8명은 2999원 보내도 됨~~
 
 ### 9월 5일 (월)
 + 기타 : [화학 수업자료 준비](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8561&lectureOpenNo=10848)
