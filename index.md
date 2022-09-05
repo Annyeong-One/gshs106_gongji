@@ -18,7 +18,7 @@
 + 숙제 : 수학 추가문제 및 프린트 채우기
 
 ### 9월 7일 (수)
-+ 수행 : 정보과학 웹크롤링 발표
++ 수행 : 정보과학 웹크롤링 발표 - 발표자료와 파이썬 코드 제출
 + 수행 : 화학 [보일법칙 실험](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8574&lectureOpenNo=10848) - [MBL 설치](https://drive.google.com/drive/folders/1IHcsd_eN4P6u1xPuZRgnR4nPDBO9frlZ?usp=sharing) 필요, 실험복 없어도 됨, SRC 400호
 
 ### 9월 14일 (수)
