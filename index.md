@@ -7,10 +7,6 @@
 - **최근 업데이트 : 9월 5일 15시경**
 - _기울어진 일정 : 불확실한 일정_
 
-### 9월 5일 (월)
-+ 기타 : [화학 수업자료 준비](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8561&lectureOpenNo=10848)
-+ 수행 : 영어 Writing Task 연습(Outline)
-
 ### 9월 6일 (화)
 + **금요일 시간표로 운영**
 + 숙제 : [물리 연습문제 14장](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8548&lectureOpenNo=10832) - 4,5,6,9,12,14,16,17,19,23,27,31
@@ -70,5 +66,9 @@
 ### 9월 2일 (금)
 + 기타 : 체육대회 - 설곽 ~~바르~~이기자
 + 기타 : 재원이한테 모자 구매 고리대금 3300원 보내기 (7777023815382)
+
+### 9월 5일 (월)
++ 기타 : [화학 수업자료 준비](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8561&lectureOpenNo=10848)
++ 수행 : 영어 Writing Task 연습(Outline)
 
 [메인 페이지](https://annyeong-one.github.io/ "유해 사이트 경고 : 해당 사이트는 유해성으로 -1회 신고된 웹사이트입니다. 들어갈 때 주의하십시오. - 국가정보원?") (들어가도 별 쓸데 없음)
