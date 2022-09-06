@@ -4,14 +4,8 @@
 - 추가로 공지해야 할 게 있을 때 Issue나 Pull Request를 달아주시(거나 걍 카톡으로 보내주시)면 업데이트하겠습니다.
 - 놀랍게도 제 1인1역은 **"수행평가 및 시험범위"** 공지입니다. 다른거는 틀려도 책임지지 않으니 ~~알 게 뭐야~~알아서 하세요.
 - 시간표 운영 변경 및 연구의 날 등 일정의 공지는 8월 22일 공개된 [기초생명과학및실험II 강의계획서](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8531&lectureOpenNo=10856)를 기준으로 합니다.
-- **최근 업데이트 : 9월 6일 08시 30분경**
+- **최근 업데이트 : 9월 6일 23시 00분경**
 - _기울어진 일정 : 불확실한 일정_
-
-### 9월 6일 (화)
-+ **금요일 시간표로 운영**
-+ 숙제 : [물리 연습문제 14장](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8548&lectureOpenNo=10832) - 4,5,6,9,12,14,16,17,19,23,27,31
-+ 숙제 : 국어 학습지 채워오기
-+ 숙제 : 수학 추가문제 및 프린트 채우기
 
 ### 9월 7일 (수)
 + 수행 : 정보과학 웹크롤링 발표 - 발표자료와 파이썬 코드 제출
@@ -20,6 +14,9 @@
 ### 9월 14일 (수)
 + **월요일 시간표로 운영**
 + 수행 : [영어 Writing Task](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8566&lectureOpenNo=10800)
+
+### 9월 16일 (금)
++ 숙제 : 국어 프린트 14페이지 연습문제
 
 ### 9월 27일 (화)
 + **연구의 날**
@@ -70,5 +67,11 @@
 ### 9월 5일 (월)
 + 기타 : [화학 수업자료 준비](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8561&lectureOpenNo=10848)
 + 수행 : 영어 Writing Task 연습(Outline)
+
+### 9월 6일 (화)
++ **금요일 시간표로 운영**
++ 숙제 : [물리 연습문제 14장](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8548&lectureOpenNo=10832) - 4,5,6,9,12,14,16,17,19,23,27,31
++ 숙제 : 국어 학습지 채워오기
++ 숙제 : 수학 추가문제 및 프린트 채우기
 
 [메인 페이지](https://annyeong-one.github.io/ "유해 사이트 경고 : 해당 사이트는 유해성으로 -1회 신고된 웹사이트입니다. 들어갈 때 주의하십시오. - 국가정보원?") (들어가도 별 쓸데 없음)
