@@ -7,10 +7,6 @@
 - **최근 업데이트 : 9월 6일 23시 00분경**
 - _기울어진 일정 : 불확실한 일정_
 
-### 9월 7일 (수)
-+ 수행 : 정보과학 웹크롤링 발표 - 발표자료와 파이썬 코드 제출
-+ 기타 : 화학 [보일법칙 실험](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8574&lectureOpenNo=10848) - [MBL 설치](https://drive.google.com/drive/folders/1IHcsd_eN4P6u1xPuZRgnR4nPDBO9frlZ?usp=sharing) 필요, 실험복 없어도 됨, SRC 400호
-
 ### 9월 14일 (수)
 + **월요일 시간표로 운영**
 + 수행 : [영어 Writing Task](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8566&lectureOpenNo=10800)
@@ -73,5 +69,9 @@
 + 숙제 : [물리 연습문제 14장](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8548&lectureOpenNo=10832) - 4,5,6,9,12,14,16,17,19,23,27,31
 + 숙제 : 국어 학습지 채워오기
 + 숙제 : 수학 추가문제 및 프린트 채우기
+
+### 9월 7일 (수)
++ 수행 : 정보과학 웹크롤링 발표 - 발표자료와 파이썬 코드 제출
++ 기타 : 화학 [보일법칙 실험](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8574&lectureOpenNo=10848) - [MBL 설치](https://drive.google.com/drive/folders/1IHcsd_eN4P6u1xPuZRgnR4nPDBO9frlZ?usp=sharing) 필요, 실험복 없어도 됨, SRC 400호
 
 [메인 페이지](https://annyeong-one.github.io/ "유해 사이트 경고 : 해당 사이트는 유해성으로 -1회 신고된 웹사이트입니다. 들어갈 때 주의하십시오. - 국가정보원?") (들어가도 별 쓸데 없음)
