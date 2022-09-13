@@ -4,7 +4,7 @@
 - 추가로 공지해야 할 게 있을 때 Issue나 Pull Request를 달아주시(거나 걍 카톡으로 보내주시)면 업데이트하겠습니다.
 - 놀랍게도 제 1인1역은 **"수행평가 및 시험범위"** 공지입니다. 다른거는 틀려도 책임지지 않으니 ~~알 게 뭐야~~알아서 하세요.
 - 시간표 운영 변경 및 연구의 날 등 일정의 공지는 8월 22일 공개된 [기초생명과학및실험II 강의계획서](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8531&lectureOpenNo=10856)를 기준으로 합니다.
-- **최근 업데이트 : 9월 8일 14시 00분경**
+- **최근 업데이트 : 9월 13일 19시 00분경**
 - _기울어진 일정 : 불확실한 일정_
 
 ### 9월 14일 (수)
@@ -13,7 +13,10 @@
 
 ### 9월 16일 (금)
 + 숙제 : 국어 프린트 14페이지 연습문제
-+ 수행 : 생명과학 글쓰기 주제선정 마감
++ 수행 : [생명과학 글쓰기 주제선정 마감](https://student.gs.hs.kr/student/score/performInfo.do?lecturePerformNo=27399) - 자유주제이나 찬반 주장이 나와야 함
+
+### 9월 20일 (화)
++ 숙제 : [물리 연습문제 15장](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8560&lectureOpenNo=10832) - 2, 6, 7, 10, 13, 15, 18, 20, 22, 25, 27, 28
 
 ### 9월 22일 (목)
 + 수행 : 생명과학 실험수행평가 예정
@@ -28,7 +31,6 @@
 + **수요일 시간표로 운영**
 
 ### 날짜 미정 / 기타
-+ 수행 : 생명과학 글쓰기 - 자유주제이나 찬반 주장이 나와야 함
 + 수행 : 생명과학 페임랩 3분발표 - 책 정해서 읽고 [여기 적기](https://docs.google.com/spreadsheets/d/1POyX0LZAXkI3DPqHnJFp6fTGvIeY2MK0aqJ4uc_yzLY/edit?usp=sharing)
 + 기타 : 화학 5분발표 - 주제 선정해 [여기 적기](https://docs.google.com/spreadsheets/d/1zoAqTt1K-QShH-oJtEsJizc6qr32gOkz7HzthEcg1uo/edit?usp=sharing) + 발표자료(선택) 있으면 [여기 업로드](https://drive.google.com/drive/folders/1x_2ZIfD2LNFTXuZ_wxCam0BzxlAE0gLb?usp=sharing)
 + 기타 : 국어 도장판 가지고 다니기
