@@ -1,4 +1,4 @@
-# 1학년 6반 공지 페이지
+# [1학년 6반 공지 페이지](https://annyeong-one.github.io/gshs106_gongji)
 - [시험범위 공지 페이지 바로가기](https://annyeong-one.github.io/gshs106_gongji/bumui)
 - 적어도 매주 한번씩은 업데이트할 수 있도록 하겠습니다. 말만 매주 한번이지 하루에도 몇번씩 업데이트하고 있습니다.
 - 추가로 공지해야 할 게 있을 때 Issue나 Pull Request를 달아주시(거나 걍 카톡으로 보내주시)면 업데이트하겠습니다.
