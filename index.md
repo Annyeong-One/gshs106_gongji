@@ -7,6 +7,8 @@
 - **최근 업데이트 : 9월 15일 17시 30분경**
 - _기울어진 일정 : 불확실한 일정_
 
+
+ㅂㄼㅎㄷ
 ### 9월 16일 (금)
 + 숙제 : 국어 프린트 14페이지 연습문제
 + 수행 : [생명과학 글쓰기 주제선정](https://student.gs.hs.kr/student/score/performInfo.do?lecturePerformNo=27399) - OREO(의견-이유-증명-의견) 글쓰기, [이](https://www.sciencetimes.co.kr/)[런](https://www.scienceall.com/) [곳](https://science.ytn.co.kr/)[에](https://ed.ted.com/lessons?direction=desc&sort=featured-position&user_by_click=student)[서](https://www.youtube.com/c/inanutshell) [주](https://www.sciencetimes.com/)[제](https://www.acmicpc.net/) 찾거나 관심있는 주제 쓰기
