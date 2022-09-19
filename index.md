@@ -7,10 +7,6 @@
 - **최근 업데이트 : 9월 15일 17시 30분경**
 - _기울어진 일정 : 불확실한 일정_
 
-### 9월 16일 (금)
-+ 숙제 : 국어 프린트 14페이지 연습문제
-+ 수행 : [생명과학 글쓰기 주제선정](https://student.gs.hs.kr/student/score/performInfo.do?lecturePerformNo=27399) - OREO(의견-이유-증명-의견) 글쓰기, [이](https://www.sciencetimes.co.kr/)[런](https://www.scienceall.com/) [곳](https://science.ytn.co.kr/)[에](https://ed.ted.com/lessons?direction=desc&sort=featured-position&user_by_click=student)[서](https://www.youtube.com/c/inanutshell) [주](https://www.sciencetimes.com/)[제](https://www.acmicpc.net/) 찾거나 관심있는 주제 쓰기
-
 ### 9월 19일 (월)
 + 수행 : 생명과학 글쓰기 초안 작성 예정, 2000~2500자 분량, 주장과 근거 2개 필요
 
@@ -18,8 +14,14 @@
 + 숙제 : [물리 연습문제 15장](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8560&lectureOpenNo=10832) - 2, 6, 7, 10, 13, 15, 18, 20, 22, 25, 27, 28
 + 기타 : 물리 등전위선 실험 (수행 ×)
 
+### 9월 25일 (수)
++ 숙제 : 수학 극한 증명하는거 5개
+
 ### 9월 22일 (목)
 + 수행 : 생명과학 실험수행평가 예정 - 조별로 USB 1개 필요
+
+### 9월 25일 (일)
++ 수행 : 생명과학 글쓰기 초안 마감
 
 ### 9월 27일 (화)
 + **연구의 날**
@@ -86,5 +88,9 @@
 ### 9월 14일 (수)
 + **월요일 시간표로 운영**
 + 수행 : [영어 Writing Task](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8566&lectureOpenNo=10800)
+
+### 9월 16일 (금)
++ 숙제 : 국어 프린트 14페이지 연습문제
++ 수행 : [생명과학 글쓰기 주제선정](https://student.gs.hs.kr/student/score/performInfo.do?lecturePerformNo=27399) - OREO(의견-이유-증명-의견) 글쓰기, [이](https://www.sciencetimes.co.kr/)[런](https://www.scienceall.com/) [곳](https://science.ytn.co.kr/)[에](https://ed.ted.com/lessons?direction=desc&sort=featured-position&user_by_click=student)[서](https://www.youtube.com/c/inanutshell) [주](https://www.sciencetimes.com/)[제](https://www.acmicpc.net/) 찾거나 관심있는 주제 쓰기
 
 [메인 페이지](https://annyeong-one.github.io/ "유해 사이트 경고 : 해당 사이트는 유해성으로 -1회 신고된 웹사이트입니다. 들어갈 때 주의하십시오. - 국가정보원?") (들어가도 별 쓸데 없음)
