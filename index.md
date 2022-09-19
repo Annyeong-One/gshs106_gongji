@@ -1,14 +1,7 @@
 # [1학년 6반 공지 페이지](https://annyeong-one.github.io/gshs106_gongji)
 - [시험범위 공지 페이지 바로가기](https://annyeong-one.github.io/gshs106_gongji/bumui)
-- 적어도 매주 한번씩은 업데이트할 수 있도록 하겠습니다. 말만 매주 한번이지 하루에도 몇번씩 업데이트하고 있습니다.
-- 추가로 공지해야 할 게 있을 때 Issue나 Pull Request를 달아주시(거나 걍 카톡으로 보내주시)면 업데이트하겠습니다.
-- 놀랍게도 제 1인1역은 **"수행평가 및 시험범위"** 공지입니다. 다른거는 틀려도 책임지지 않으니 ~~알 게 뭐야~~알아서 하세요.
-- 시간표 운영 변경 및 연구의 날 등 일정의 공지는 8월 22일 공개된 [기초생명과학및실험II 강의계획서](https://student.gs.hs.kr/student/score/lecturePlan.do?lectureOpenNo=10856)를 기준으로 합니다.
 - **최근 업데이트 : 9월 19일 13시 30분경**
 - _기울어진 일정 : 불확실한 일정_
-
-### 9월 19일 (월)
-+ 수행 : 생명과학 글쓰기 초안 작성 예정, 2000~2500자 분량, 주장과 근거 2개 필요
 
 ### 9월 20일 (화)
 + 숙제 : [물리 연습문제 15장](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8560&lectureOpenNo=10832) - 2, 6, 7, 10, 13, 15, 18, 20, 22, 25, 27, 28
@@ -93,4 +86,10 @@
 + 숙제 : 국어 프린트 14페이지 연습문제
 + 수행 : [생명과학 글쓰기 주제선정](https://student.gs.hs.kr/student/score/performInfo.do?lecturePerformNo=27399) - OREO(의견-이유-증명-의견) 글쓰기, [이](https://www.sciencetimes.co.kr/)[런](https://www.scienceall.com/) [곳](https://science.ytn.co.kr/)[에](https://ed.ted.com/lessons?direction=desc&sort=featured-position&user_by_click=student)[서](https://www.youtube.com/c/inanutshell) [주](https://www.sciencetimes.com/)[제](https://www.acmicpc.net/) 찾거나 관심있는 주제 쓰기
 
-[메인 페이지](https://annyeong-one.github.io/ "유해 사이트 경고 : 해당 사이트는 유해성으로 -1회 신고된 웹사이트입니다. 들어갈 때 주의하십시오. - 국가정보원?") (들어가도 별 쓸데 없음)
+### 9월 19일 (월)
++ 수행 : 생명과학 글쓰기 초안 작성 예정, 2000~2500자 분량, 주장과 근거 2개 필요
+
+- [메인 페이지](https://annyeong-one.github.io/ "유해 사이트 경고 : 해당 사이트는 유해성으로 -1회 신고된 웹사이트입니다. 들어갈 때 주의하십시오. - 국가정보원?") (들어가도 별 쓸데 없음)
+- 놀랍게도 제 1인1역은 **"수행평가 및 시험범위"** 공지입니다. 다른거는 틀려도 책임지지 않으니 ~~알 게 뭐야~~알아서 하세요.
+- 시간표 운영 변경 및 연구의 날 등 일정의 공지는 8월 22일 공개된 [기초생명과학및실험II 강의계획서](https://student.gs.hs.kr/student/score/lecturePlan.do?lectureOpenNo=10856)를 기준으로 합니다.
+- 추가로 공지해야 할 게 있을 때 Issue나 Pull Request를 달아주시(거나 걍 카톡으로 보내주시)면 업데이트하겠습니다.
