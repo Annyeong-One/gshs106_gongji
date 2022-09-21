@@ -1,13 +1,13 @@
 # [1학년 6반 공지 페이지](https://annyeong-one.github.io/gshs106_gongji)
 - [시험범위 공지 페이지 바로가기](https://annyeong-one.github.io/gshs106_gongji/bumui)
-- **최근 업데이트 : 9월 19일 22시 30분경**
+- **최근 업데이트 : 9월 21일 22시 00분경**
 - _기울어진 일정 : 불확실한 일정_
-
-### 9월 21일 (수)
-+ 숙제 : 수학 극한 증명하는거 5개
 
 ### 9월 22일 (목)
 + 수행 : 생명과학 실험수행평가 예정 - 조별로 USB 1개 필요, 광합성 색소 추출 및 분리
+
+### 9월 23일 (금)
++ 숙제 : 수열과 극한 대단원평가 남은문제 / 수열의 극한 중단원평가 숙제, 대단원 1번 11번 제외
 
 ### 9월 25일 (일)
 + 수행 : 생명과학 글쓰기 초안 [업로드](https://student.gs.hs.kr/student/score/performInfo.do?lecturePerformNo=27475) 21시 마감
@@ -20,6 +20,7 @@
 
 ### 9월 29일 (목)
 + **수요일 시간표로 운영**
++ 기타 : IAmCoder 2학기 1회차 [링크](http://koistudy.net/?mid=IamCoderContest&ContestID=b4fd1d2cb085390fbbadae65e07876a7)
 
 ### 10월 5일 (수)
 + **월요일 시간표로 윤영**
@@ -88,6 +89,9 @@
 ### 9월 20일 (화)
 + 숙제 : [물리 연습문제 15장](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8560&lectureOpenNo=10832) - 2, 6, 7, 10, 13, 15, 18, 20, 22, 25, 27, 28
 + 기타 : 물리 등전위선 실험 (수행 ×)
+
+### 9월 21일 (수)
++ 숙제 : 수학 극한 증명하는거 5개
 
 ## 기타
 - [메인 페이지](https://annyeong-one.github.io/ "유해 사이트 경고 : 해당 사이트는 유해성으로 -1회 신고된 웹사이트입니다. 들어갈 때 주의하십시오. - 국가정보원?") (들어가도 별 쓸데 없음)
