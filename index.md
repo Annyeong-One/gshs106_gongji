@@ -1,6 +1,6 @@
 # [1학년 6반 공지 페이지](https://annyeong-one.github.io/gshs106_gongji)
 - [시험범위 공지 페이지 바로가기](https://annyeong-one.github.io/gshs106_gongji/bumui)
-- **최근 업데이트 : 9월 21일 22시 00분경**
+- **최근 업데이트 : 9월 23일 00시 00분경**
 - _기울어진 일정 : 불확실한 일정_
 
 ### 9월 23일 (금)
@@ -17,7 +17,7 @@
 
 ### 9월 29일 (목)
 + **수요일 시간표로 운영**
-+ 기타 : IAmCoder 2학기 1회차 [링크](http://koistudy.net/?mid=IamCoderContest&ContestID=b4fd1d2cb085390fbbadae65e07876a7)
++ 기타 : IAmCoder 2학기 1회차 [링크](http://koistudy.net/?mid=IamCoderContest&ContestID=b4fd1d2cb085390fbbadae65e07876a7) [(풀이?)](https://annyeong-one.github.io/blog/2022/09/22/%EC%95%95%EC%B6%95-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.html)
 
 ### 10월 5일 (수)
 + **월요일 시간표로 윤영**
