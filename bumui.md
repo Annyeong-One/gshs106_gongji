@@ -2,7 +2,7 @@
 [기본 공지로 돌아가기](https://annyeong-one.github.io/gshs106_gongji/) \
 시험범위가 나오는 대로 여기에 공지합니다. 물론 이 페이지도 언제 버려질 지 모릅니다. \
 **볼드체 : 과목별 전체 범위 _(기울임 : 확정 X)_** \
-**22년 9월 16일** 기준 : 공지된 과목 제외 현재 수업 진행상황 전체
+**22년 9월 26일** 기준 : 공지된 과목 제외 현재 수업 진행상황 전체
 ### 중간고사
 > 수학II : **(9월 16일 확정) 심화 수학I III. 1. ~ V. 2.**
 - III. 삼각함수 : 전체
@@ -16,12 +16,12 @@
 - 16장 전기에너지와 전기용량 : 
 
 > 기초화학및실험II : **(9월 14일 확정) 화학 II I.**
-- I. 물질의 세 가지 상태와 용액 : 전체
+- I. 물질의 세 가지 상태와 용액 : I. 6. 용액의 농도 파트 제외
 
-> 기초생명과학및실험II : _**Campbell Biology Ch 9 ~**_
+> 기초생명과학및실험II : **(9월 26일 확정) Campbell Biology Ch 9. ~11.**
 - Chapter 9. Cellular Signaling : 전체
 - Chapter 10. Cell Respiration : 전체
-- Chapter 11. Photosynthetic Process : 
+- Chapter 11. Photosynthetic Process : 전체
 
 > 기초지구과학및실험II : _**지구과학 I/II I. ~ x**_
 - I. 대기의 운동 : 전체
@@ -30,8 +30,8 @@
 > 정보과학II : _**샌즈**_
 - Python 기초 문법 : 100제 범위
 - 웹 크롤링 기법 : Python 웹크롤링 기법 및 HTML에서 원하는 정보 추출하기
-- 압축 기법 : Run Length Encoding, Lempel-Ziv-Welch
-- C++ 기초 문법 : 입출력 구문, STL map 자료구조
+- 압축 기법 : Run Length Encoding, Lempel-Ziv-Welch, _Huffman Encoding_
+- C++ 기초 문법 : 입출력 구문(cin/cout), STL map 자료구조
 
 > 국어II : **(9월 16일 확정) 국어 6. (2). 상황과 대상에 맞는 표현**
 - 자체교재 I. 문장과 문장의 짜임
