@@ -198,7 +198,7 @@
 ### 날짜 미정 / 기타
 + 수행 : 생명과학 페임랩 3분발표 - 책 정해서 읽고 [여기 적기](https://docs.google.com/spreadsheets/d/1POyX0LZAXkI3DPqHnJFp6fTGvIeY2MK0aqJ4uc_yzLY/edit?usp=sharing)
 + 기타 : 화학 5분발표 - 주제 선정해 [여기 적기](https://docs.google.com/spreadsheets/d/1zoAqTt1K-QShH-oJtEsJizc6qr32gOkz7HzthEcg1uo/edit?usp=sharing) + 발표자료(선택) 있으면 [여기 업로드](https://drive.google.com/drive/folders/1x_2ZIfD2LNFTXuZ_wxCam0BzxlAE0gLb?usp=sharing)
-+ 기타 : 국어 도장판 가지고 다니기
++ 기타 : [국어 도장판 가지고 다니기](https://annyeong-one.github.io/Secret-ish/ "치밀하네요, 여기 링크가 왜 있는지 확인해볼 사람이 누가 있겠어요.")
 + 기타 : 수학 창의활동 모음집 [링크](https://drive.google.com/drive/folders/0AOXBfQ3PnbvpUk9PVA) - 학교 계정으로 로그인
 + 사심 : [코포 앳코더 등등 일](https://www.acmicpc.net/contest/other/list)[정](https://ivark.github.io/)
 
