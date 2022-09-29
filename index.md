@@ -3,11 +3,6 @@
 - **최근 업데이트 : 9월 29일 10시 50분경**
 - _기울어진 일정 : 불확실한 일정_
 
-### 9월 29일 (목)
-+ **수요일 시간표로 운영**
-+ 기타 : IAmCoder 2학기 1회차 [링크](http://koistudy.net/?mid=IamCoderContest&ContestID=b4fd1d2cb085390fbbadae65e07876a7) [(풀이?)](https://annyeong-one.github.io/blog/2022/09/22/%EC%95%95%EC%B6%95-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.html)
-+ _숙제 : 함수의 극한과 연속 프린트 채우기?_
-
 ### 9월 30일 (금)
 + 숙제 : 국어 연습문제 풀고 [채점하고](https://student.gs.hs.kr/student/score/fileInfo.do?mediaNo=11932&subType=10792) 질문할거 있으면 준비해오기
 + 기타 : 이재용 개인주제발표
@@ -275,6 +270,11 @@
 
 ### 9월 28일 (수)
 + **연구의 날**
+
+### 9월 29일 (목)
++ **수요일 시간표로 운영**
++ 기타 : IAmCoder 2학기 1회차 [링크](http://koistudy.net/?mid=IamCoderContest&ContestID=b4fd1d2cb085390fbbadae65e07876a7) [(풀이?)](https://annyeong-one.github.io/blog/2022/09/22/%EC%95%95%EC%B6%95-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.html)
++ _숙제 : 함수의 극한과 연속 프린트 채우기?_
 
 ## 기타
 - [메인 페이지](https://annyeong-one.github.io/ "유해 사이트 경고 : 해당 사이트는 유해성으로 -1회 신고된 웹사이트입니다. 들어갈 때 주의하십시오. - 국가정보원?") (들어가도 별 쓸데 없음)
