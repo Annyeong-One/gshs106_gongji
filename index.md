@@ -1,6 +1,6 @@
 # [1학년 6반 공지 페이지](https://annyeong-one.github.io/gshs106_gongji)
 - [시험범위 공지 페이지 바로가기](https://annyeong-one.github.io/gshs106_gongji/bumui)
-- **최근 업데이트 : 9월 29일 10시 50분경**
+- **최근 업데이트 : 9월 30일 13시 40분경**
 - _기울어진 일정 : 불확실한 일정_
 
 ### 9월 30일 (금)
