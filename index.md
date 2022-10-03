@@ -3,9 +3,6 @@
 - **최근 업데이트 : 10월 3일 21시 20분경**
 - _기울어진 일정 : 불확실한 일정_
 
-### 10월 4일 (화)
-+ 수행 : 김영진 지학주제발표
-
 ### 10월 5일 (수)
 + **월요일 시간표로 운영**
 + 수행 : [영어 Writing Test #2](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8634&lectureOpenNo=10800)
