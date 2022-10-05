@@ -3,12 +3,6 @@
 - **최근 업데이트 : 10월 5일 08시 40분경**
 - _기울어진 일정 : 불확실한 일정_
 
-### 10월 5일 (수)
-+ **월요일 시간표로 운영**
-+ 수행 : [영어 Writing Test #2](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8634&lectureOpenNo=10800)
-+ 기타 : 체육 태권도 조별 노래 선정
-+ 기타 : 체육 태권도 선택한 품새 익히기
-
 ### 10월 6일 (목)
 + 수행 : 지학 일기예보와 위성영상분석 수행평가
 + 숙제 : 지학 클래스룸 편서풍 풍속 계산 ~~재밌습니다~~
@@ -17,6 +11,9 @@
 
 ### 10월 7일 (금)
 + 수행 : 수학 문해평
+
+### 10월 12일 (수)
++ 기타 : 나는코더다 2회차 (사실 10월 6일 종료) ([풀이](https://annyeong-one.github.io/blog/2022/10/05/%EC%95%94%ED%98%B8%ED%99%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.html))
 
 ### 10월 13일 (목)
 + **중간고사 1일차**
@@ -285,6 +282,12 @@
 ### 9월 30일 (금)
 + 숙제 : 국어 연습문제 풀고 [채점하고](https://student.gs.hs.kr/student/score/fileInfo.do?mediaNo=11932&subType=10792) 질문할거 있으면 준비해오기
 + 기타 : 이재용 개인주제발표
+
+### 10월 5일 (수)
++ **월요일 시간표로 운영**
++ 수행 : [영어 Writing Test #2](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8634&lectureOpenNo=10800)
++ 기타 : 체육 태권도 조별 노래 선정
++ 기타 : 체육 태권도 선택한 품새 익히기
 
 ## 기타
 - [메인 페이지](https://annyeong-one.github.io/ "유해 사이트 경고 : 해당 사이트는 유해성으로 -1회 신고된 웹사이트입니다. 들어갈 때 주의하십시오. - 국가정보원?") (들어가도 별 쓸데 없음)
