@@ -5,6 +5,7 @@
 
 ### 10월 7일 (금)
 + 수행 : 수학 문해평
++ 기타 : 현사법 시간에 혼인신고 예정, 이름 한자로 알아가야 됨. ~~와 결혼 아시는구나~~
 
 ### 10월 11일 (화)
 + 숙제 : 기물실 16장 [연습문제](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8587&lectureOpenNo=10832) - 5, 6, 10, 12, 16, 19, 20, 23, 30, 32 (10문항)
