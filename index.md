@@ -1,13 +1,13 @@
 # [1학년 6반 공지 페이지](https://annyeong-one.github.io/gshs106_gongji)
 - [시험범위 공지 페이지 바로가기](https://annyeong-one.github.io/gshs106_gongji/bumui)
-- **최근 업데이트 : 10월 5일 08시 40분경**
+- **최근 업데이트 : 10월 6일 13시 50분경**
 - _기울어진 일정 : 불확실한 일정_
 
 ### 10월 6일 (목)
 + 수행 : 지학 일기예보와 위성영상분석 수행평가
 + 숙제 : 지학 클래스룸 편서풍 풍속 계산 ~~재밌습니다~~
 + 기타 : 7교시 자치
-+ 기타 : 국어 독서일지 마감 21:00
++ 기타 : 국어 독서일지 마감 21:00 - [질문 여기도 쓰기](https://docs.google.com/spreadsheets/d/1AyJhbMolK1PtF5zTINKVzrSsy0qxuADROBEKv4oEqvg/edit)
 
 ### 10월 7일 (금)
 + 수행 : 수학 문해평
