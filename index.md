@@ -6,6 +6,9 @@
 ### 10월 7일 (금)
 + 수행 : 수학 문해평
 
+### 10월 11일 (화)
++ 숙제 : 기물실 16장 [연습문제](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8587&lectureOpenNo=10832) - 5, 6, 10, 12, 16, 19, 20, 23, 30, 32 (10문항)
+
 ### 10월 12일 (수)
 + 기타 : 나는코더다 2회차 (사실 10월 6일 종료) ([풀이](https://annyeong-one.github.io/blog/2022/10/05/%EC%95%94%ED%98%B8%ED%99%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.html))
 
