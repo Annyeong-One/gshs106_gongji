@@ -1,13 +1,7 @@
 # [1학년 6반 공지 페이지](https://annyeong-one.github.io/gshs106_gongji)
 - [시험범위 공지 페이지 바로가기](https://annyeong-one.github.io/gshs106_gongji/bumui)
-- **최근 업데이트 : 10월 6일 13시 50분경**
+- **최근 업데이트 : 10월 6일 21시 00분경**
 - _기울어진 일정 : 불확실한 일정_
-
-### 10월 6일 (목)
-+ 수행 : 지학 일기예보와 위성영상분석 수행평가
-+ 숙제 : 지학 클래스룸 편서풍 풍속 계산 ~~재밌습니다~~
-+ 기타 : 7교시 자치
-+ 기타 : 국어 독서일지 마감 21:00 - [질문 여기도 쓰기](https://docs.google.com/spreadsheets/d/1AyJhbMolK1PtF5zTINKVzrSsy0qxuADROBEKv4oEqvg/edit)
 
 ### 10월 7일 (금)
 + 수행 : 수학 문해평
@@ -22,8 +16,8 @@
 
 ### 10월 14일 (금)
 + **중간고사 2일차**
-+ 1교시 기초생명과학및실험II
-+ 2교시 기초물리학및실험II
++ 2교시 기초생명과학및실험II
++ 3교시 기초물리학및실험II
 
 ### 10월 17일 (월)
 + **중간고사 3일차**
@@ -197,7 +191,7 @@
 ## 끝난 일정
 
 ### 8월 22일 (월)
-+ 기타 : [화학 자료 다운빋기](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8511&lectureOpenNo=10848)
++ 기타 : [화학 자료 다운받기](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8511&lectureOpenNo=10848)
 
 ### 8월 24일 (수)
 + 과제 : [정보과학 파이썬 기초 100제](http://koistudy.net/?mid=viewProblems&WORD=py&vw=10&SEARCH=0&SEARCH=0&SUBMIT=GO)
@@ -288,6 +282,12 @@
 + 수행 : [영어 Writing Test #2](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8634&lectureOpenNo=10800)
 + 기타 : 체육 태권도 조별 노래 선정
 + 기타 : 체육 태권도 선택한 품새 익히기
+
+### 10월 6일 (목)
++ 수행 : 지학 일기예보와 위성영상분석 수행평가
++ 숙제 : 지학 클래스룸 편서풍 풍속 계산 ~~재밌습니다~~
++ 기타 : 7교시 자치
++ 기타 : 국어 독서일지 마감 21:00 - 생각보다 개발자 일 열심히 함 -> [질문 여기도 쓰기](https://docs.google.com/spreadsheets/d/1AyJhbMolK1PtF5zTINKVzrSsy0qxuADROBEKv4oEqvg/edit)
 
 ## 기타
 - [메인 페이지](https://annyeong-one.github.io/ "유해 사이트 경고 : 해당 사이트는 유해성으로 -1회 신고된 웹사이트입니다. 들어갈 때 주의하십시오. - 국가정보원?") (들어가도 별 쓸데 없음)
