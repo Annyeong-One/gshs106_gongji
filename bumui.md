@@ -26,11 +26,11 @@
 - Chapter 10. Cell Respiration : 전체
 - Chapter 11. Photosynthetic Process : 전체
 
-> 기초지구과학및실험II : _**지구과학 I/II I. ~ II.**_
+> 기초지구과학및실험II : **지구과학 I/II I. ~ II.**
 - I. 대기의 운동 : 전체
 - II. 대기의 순환 : 전체
 
-> 정보과학II : _**시123발**_
+> 정보과학II : **~~너와 함께했던 모든 시간이 시험범위였다~~ 아래 참조**
 - Python 기초 문법 : 100제 범위
 - C++ 기초 문법 : 입출력 구문(cin/cout), STL map 자료구조
 - 웹 크롤링 기법 : Python 웹크롤링 기법 및 HTML에서 원하는 정보 추출하기
