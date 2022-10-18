@@ -4,14 +4,11 @@
 - **여러분 시험이 끝났어요!!!!!!!!!!!!!**
 - _기울어진 일정 : 불확실한 일정_
 
-### 10월 18일 (화)
-+ 기타 : [화학 ALP](https://student.gs.hs.kr/student/program/programInfo.do?programNo=308) 19:00~22:00
-
 ### 10월 19일 (수)
 + 기타 : [수학 ALP](https://student.gs.hs.kr/student/program/programInfo.do?programNo=307) 19:00~22:00
 
 ### 10월 20일 (목)
-+ 기타 : 7교시 자치 - 나우누리 프로젝트
++ 기타 : 7교시 자치
 + 기타 : 인성교육 7회차 수강신청
 + 기타 : [생명과학 ALP](https://student.gs.hs.kr/student/program/programInfo.do?programNo=306) 19:00~22:00
 
@@ -24,6 +21,7 @@
 
 ### 10월 25일 (화)
 + **인문학의 날**
++ 기타 : [기물실 18장](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8665&lectureOpenNo=10832) - 6, 7, 9, 10, 11, 12, 17, 18, 24, 25
 + 기타 : 7교시 청소년인권교육
 
 ### 10월 26일 (수)
@@ -306,6 +304,9 @@
 + 2교시 수학II
 + 3교시 정보과학II
 + 기타 : 6~7교시 동아리
+
+### 10월 18일 (화)
++ 기타 : [화학 ALP](https://student.gs.hs.kr/student/program/programInfo.do?programNo=308) 19:00~22:00
 
 ## 기타
 - [메인 페이지](https://annyeong-one.github.io/ "유해 사이트 경고 : 해당 사이트는 유해성으로 -1회 신고된 웹사이트입니다. 들어갈 때 주의하십시오. - 국가정보원?") (들어가도 별 쓸데 없음)
