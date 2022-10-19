@@ -1,6 +1,6 @@
 # [1학년 6반 공지 페이지](https://annyeong-one.github.io/gshs106_gongji)
 - [시험범위 공지 페이지 바로가기](https://annyeong-one.github.io/gshs106_gongji/bumui)
-- **최근 업데이트 : 10월 17일 20시 00분경**
+- **최근 업데이트 : 10월 19일 16시 00분경**
 - **여러분 시험이 끝났어요!!!!!!!!!!!!!**
 - _기울어진 일정 : 불확실한 일정_
 
@@ -8,6 +8,7 @@
 + 기타 : [수학 ALP](https://student.gs.hs.kr/student/program/programInfo.do?programNo=307) 19:00~22:00
 
 ### 10월 20일 (목)
++ 수행 : 생명과학 글쓰기 피드백 및 페임랩 준비할 책 준비
 + 기타 : 7교시 자치
 + 기타 : 인성교육 7회차 수강신청
 + 기타 : [생명과학 ALP](https://student.gs.hs.kr/student/program/programInfo.do?programNo=306) 19:00~22:00
@@ -21,8 +22,9 @@
 
 ### 10월 25일 (화)
 + **인문학의 날**
-+ 기타 : [기물실 18장](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8665&lectureOpenNo=10832) - 6, 7, 9, 10, 11, 12, 17, 18, 24, 25
++ 기타 : [기물실 18장 연습문제](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8665&lectureOpenNo=10832) - 6, 7, 9, 10, 11, 12, 17, 18, 24, 25
 + 기타 : 7교시 청소년인권교육
++ 기타 : 자습2차시 생활관 이동
 
 ### 10월 26일 (수)
 + 기타 : [물리 ALP](https://student.gs.hs.kr/student/program/programInfo.do?programNo=310) 18:40~21:40
