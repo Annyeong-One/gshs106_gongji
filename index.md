@@ -1,17 +1,7 @@
 # [1학년 6반 공지 페이지](https://annyeong-one.github.io/gshs106_gongji)
 - [시험범위 공지 페이지 바로가기](https://annyeong-one.github.io/gshs106_gongji/bumui)
-- **최근 업데이트 : 10월 19일 16시 00분경**
-- **여러분 시험이 끝났어요!!!!!!!!!!!!!**
+- **최근 업데이트 : 10월 20일 23시 00분경**
 - _기울어진 일정 : 불확실한 일정_
-
-### 10월 19일 (수)
-+ 기타 : [수학 ALP](https://student.gs.hs.kr/student/program/programInfo.do?programNo=307) 19:00~22:00
-
-### 10월 20일 (목)
-+ 수행 : 생명과학 글쓰기 피드백 및 페임랩 준비할 책 준비
-+ 기타 : 7교시 자치
-+ 기타 : 인성교육 7회차 수강신청
-+ 기타 : [생명과학 ALP](https://student.gs.hs.kr/student/program/programInfo.do?programNo=306) 19:00~22:00
 
 ### 10월 21일 (금)
 + 기타 : 조형준 개인주제발표
@@ -19,6 +9,7 @@
 ### 10월 24일 (월)
 + 기타 : 윤지호 개인주제발표
 + 기타 : 이재용 토크위드켐
++ 기타 : 체육 논술형평가 마감 21시 30분 (???)
 
 ### 10월 25일 (화)
 + **인문학의 날**
@@ -315,6 +306,15 @@
 
 ### 10월 18일 (화)
 + 기타 : [화학 ALP](https://student.gs.hs.kr/student/program/programInfo.do?programNo=308) 19:00~22:00
+
+### 10월 19일 (수)
++ 기타 : [수학 ALP](https://student.gs.hs.kr/student/program/programInfo.do?programNo=307) 19:00~22:00
+
+### 10월 20일 (목)
++ 수행 : 생명과학 글쓰기 피드백 및 페임랩 준비할 책 준비
++ 기타 : 7교시 자치
++ 기타 : 인성교육 7회차 수강신청
++ 기타 : [생명과학 ALP](https://student.gs.hs.kr/student/program/programInfo.do?programNo=306) 19:00~22:00
 
 ## 기타
 - [메인 페이지](https://annyeong-one.github.io/ "유해 사이트 경고 : 해당 사이트는 유해성으로 -1회 신고된 웹사이트입니다. 들어갈 때 주의하십시오. - 국가정보원?") (들어가도 별 쓸데 없음)
