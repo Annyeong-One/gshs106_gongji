@@ -45,6 +45,7 @@
 + 수행 : 영어 말하기 발표일 (랜덤 8명)
 + 기타 : 김영진 개인주제발표
 + 기타 : 김민서 토크위드켐
++ 수행 : 생명과학 페임랩 발표: 류현우, 송주은, 한영휘, 운최정운 [책 여기 적기](https://docs.google.com/spreadsheets/d/1POyX0LZAXkI3DPqHnJFp6fTGvIeY2MK0aqJ4uc_yzLY/edit?usp=sharing)
 + 기타 : [지구과학 ALP](https://student.gs.hs.kr/student/program/programInfo.do?programNo=309) 19:00~22:00
 
 ### 11월 1일 (화)
@@ -61,6 +62,7 @@
 + 수행 : 영어 말하기 발표일 (안 한 사람)
 + 기타 : 임필환 개인주제발표
 + 기타 : 최재웅 토크위드켐
++ 수행 : 생명과학 페임랩 발표: 임필환, 이재용, 김민서, 윤지호 [책 여기 적기](https://docs.google.com/spreadsheets/d/1POyX0LZAXkI3DPqHnJFp6fTGvIeY2MK0aqJ4uc_yzLY/edit?usp=sharing)
 + 기타 : [정보과학 ALP](https://student.gs.hs.kr/student/program/programInfo.do?programNo=311) 18:40~21:40
 
 ### 11월 8일 (화)
@@ -75,6 +77,7 @@
 ### 11월 14일 (월)
 + 기타 : 한영휘 개인주제발표
 + 기타 : 곽수민 토크위드켐
++ 수행 : 생명과학 페임랩 발표: 곽수민, 송정무, 김영진, 정영우 [책 여기 적기](https://docs.google.com/spreadsheets/d/1POyX0LZAXkI3DPqHnJFp6fTGvIeY2MK0aqJ4uc_yzLY/edit?usp=sharing)
 
 ### 11월 15일 (화)
 + **연구의 날**
@@ -89,6 +92,8 @@
 ### 11월 21일 (월)
 + 기타 : 손민혁 개인주제발표
 + 기타 : 류현우 토크위드켐
++ 수행 : 생명과학 페임랩 발표: 조형준, 최재웅, 조재원, 손민혁 [책 여기 적기](https://docs.google.com/spreadsheets/d/1POyX0LZAXkI3DPqHnJFp6fTGvIeY2MK0aqJ4uc_yzLY/edit?usp=sharing)
++ ~~1972년 11월 21일, 4딸라 협상의 신 김두한이 오렌지 병이었던 고혈압으로 쓰러진 지 정확히 50년이 되는 날이다.~~
 
 ### 11월 22일 (화)
 + 수행 : 류현우 지학주제발표
@@ -174,7 +179,6 @@
 + **성적공개**
 
 ### 날짜 미정 / 기타
-+ 수행 : 생명과학 페임랩 3분발표 - 책 정해서 읽고 [여기 적기](https://docs.google.com/spreadsheets/d/1POyX0LZAXkI3DPqHnJFp6fTGvIeY2MK0aqJ4uc_yzLY/edit?usp=sharing)
 + 기타 : 화학 5분발표 - 주제 선정해 [여기 적기](https://docs.google.com/spreadsheets/d/1zoAqTt1K-QShH-oJtEsJizc6qr32gOkz7HzthEcg1uo/edit?usp=sharing) + 발표자료(선택) 있으면 [여기 업로드](https://drive.google.com/drive/folders/1x_2ZIfD2LNFTXuZ_wxCam0BzxlAE0gLb?usp=sharing)
 + 기타 : [국어 도장판 가지고 다니기](https://annyeong-one.github.io/Secret-ish/ "치밀하네요, 여기 링크가 왜 있는지 확인해볼 사람이 누가 있겠어요.")
 + 기타 : 수학 창의활동 모음집 [링크](https://drive.google.com/drive/folders/0AOXBfQ3PnbvpUk9PVA) - 학교 계정으로 로그인
