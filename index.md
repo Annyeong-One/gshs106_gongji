@@ -45,7 +45,7 @@
 + 수행 : 영어 말하기 발표일 (랜덤 8명)
 + 기타 : 김영진 개인주제발표
 + 기타 : 김민서 토크위드켐
-+ 수행 : 생명과학 페임랩 발표: 류현우, 송주은, 한영휘, 운최정운 [책 여기 적기](https://docs.google.com/spreadsheets/d/1POyX0LZAXkI3DPqHnJFp6fTGvIeY2MK0aqJ4uc_yzLY/edit?usp=sharing)
++ 수행 : 생명과학 페임랩 발표: 류현우, 송주은, 한영휘, 최정운 [책 여기 적기](https://docs.google.com/spreadsheets/d/1POyX0LZAXkI3DPqHnJFp6fTGvIeY2MK0aqJ4uc_yzLY/edit?usp=sharing)
 + 기타 : [지구과학 ALP](https://student.gs.hs.kr/student/program/programInfo.do?programNo=309) 19:00~22:00
 
 ### 11월 1일 (화)
