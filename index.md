@@ -25,6 +25,7 @@
 + 기타 : [기물실 18장 연습문제](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8665&lectureOpenNo=10832) - 6, 7, 9, 10, 11, 12, 17, 18, 24, 25
 + 기타 : 7교시 청소년인권교육
 + 기타 : 자습2차시 생활관 이동
++ 수행 : 생명과학 글쓰기 교차피드백 21시 마감
 
 ### 10월 26일 (수)
 + 기타 : [물리 ALP](https://student.gs.hs.kr/student/program/programInfo.do?programNo=310) 18:40~21:40
@@ -48,6 +49,7 @@
 
 ### 11월 1일 (화)
 + 수행 : 곽수민 지학주제발표
++ 수행 : 생명과학 글쓰기 최종본 제출 21시 마감
 
 ### 11월 3일 (목)
 + 기타 : 7교시 자치
