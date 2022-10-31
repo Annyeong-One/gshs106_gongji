@@ -1,21 +1,12 @@
 # [1학년 6반 공지 페이지](https://annyeong-one.github.io/gshs106_gongji)
 - [시험범위 공지 페이지 바로가기](https://annyeong-one.github.io/gshs106_gongji/bumui)
-- **최근 업데이트 : 10월 30일 21시 10분경**
+- **최근 업데이트 : 10월 31일 19시 40분경**
 - _기울어진 일정 : 불확실한 일정_
 - **홍보 : 카카오톡 챗봇 시범 _운영_ [링크](http://pf.kakao.com/_Sjbbxj)** : _역시 언제 죽을지 모름_.
 
-### 10월 31일 (월)
-+ 수행 : 영어 말하기 발표일 (랜덤 8명)
-+ 기타 : 월요일 7교시 음악 보강 약 35분
-+ 기타 : 송정무 개인주제발표
-+ 기타 : 김민서 토크위드켐
-+ 수행 : 체육 글쓰기 21시 30분 마감
-+ 수행 : 생명과학 페임랩 발표: 류현우, 송주은, 한영휘, 최정운 [책 여기 적기](https://docs.google.com/spreadsheets/d/1POyX0LZAXkI3DPqHnJFp6fTGvIeY2MK0aqJ4uc_yzLY/edit?usp=sharing)
-+ 기타 : [지구과학 ALP](https://student.gs.hs.kr/student/program/programInfo.do?programNo=309) 19:00~22:00
-+ 수행 : [체육 논술](https://student.gs.hs.kr/student/score/performInfo.do?lecturePerformNo=27728) 마감 21:30
-
 ### 11월 1일 (화)
 + 수행 : 곽수민 지학주제발표
++ _수행 : 물리 실험 ~~아님 말고~~_
 + 수행 : 생명과학 글쓰기 최종본 [제출](https://student.gs.hs.kr/student/score/performInfo.do?lecturePerformNo=27931) 21시 마감 - 표절률 7% 이내. 검사지와 함께 업로드.
 
 ### 11월 3일 (목)
@@ -31,7 +22,7 @@
 + 수행 : 국어 독서프로젝트 감상문 초고 작성 감마감 23시 59분까지
 
 ### 11월 7일 (월)
-+ 수행 : 영어 말하기 발표일 (안 한 사람)
++ 수행 : 영어 말하기 발표일 (안 한 8명)
 + 기타 : 곽수민 개인주제발표
 + 기타 : 최재웅 토크위드켐
 + 수행 : 생명과학 페임랩 발표: 임필환, 이재용, 김민서, 윤지호 [책 여기 적기](https://docs.google.com/spreadsheets/d/1POyX0LZAXkI3DPqHnJFp6fTGvIeY2MK0aqJ4uc_yzLY/edit?usp=sharing)
@@ -39,6 +30,7 @@
 
 ### 11월 8일 (화)
 + **연구의 날**
++ ~~와 보고서 작성과 주제 선택에 대한 깊은 후회의 날 아시는구나~~
 + ~~수행 : 최정운 지학주제발표~~ 나도 언제로 바뀌는지 모름
 
 ### 11월 9일 (수)
@@ -343,8 +335,18 @@
 ### 10월 30일 (일)
 + 기타 : 인성교육 7회차 보고서 작성
 
+### 10월 31일 (월)
++ 수행 : 영어 말하기 발표일 (랜덤 8명)
++ 기타 : 월요일 7교시 음악 보강 약 35분
++ 기타 : 송정무 개인주제발표
++ 기타 : 김민서 토크위드켐
++ 수행 : 체육 글쓰기 21시 30분 마감
++ 수행 : 생명과학 페임랩 발표: 류현우, 송주은, 한영휘, 최정운 [책 여기 적기](https://docs.google.com/spreadsheets/d/1POyX0LZAXkI3DPqHnJFp6fTGvIeY2MK0aqJ4uc_yzLY/edit?usp=sharing)
++ 기타 : [지구과학 ALP](https://student.gs.hs.kr/student/program/programInfo.do?programNo=309) 19:00~22:00
++ 수행 : [체육 논술](https://student.gs.hs.kr/student/score/performInfo.do?lecturePerformNo=27728) 마감 21:30
+
 ## 기타
-- [메인 페이지](https://annyeong-one.github.io/ "유해 사이트 경고 : 해당 사이트는 유해성으로 -1회 신고된 웹사이트입니다. 들어갈 때 주의하십시오. - 국가정보원?") (들어가도 별 쓸데 없음)
+- [메인 페이지](https://annyeong-one.github.io/) (들어가도 별 쓸데 없음)
 - 놀랍게도 제 1인1역은 **"수행평가 및 시험범위"** 공지입니다. 다른거는 틀려도 책임지지 않으니 ~~알 게 뭐야~~알아서 하세요.
 - 시간표 운영 변경 및 연구의 날 등 일정의 공지는 8월 22일 공개된 [기초생명과학및실험II 강의계획서](https://student.gs.hs.kr/student/score/lecturePlan.do?lectureOpenNo=10856)와 1학기에 배부받은 22학년도 학사일정 기준으로 합니다.
 - 추가로 공지해야 할 게 있을 때 Issue나 Pull Request를 달아주시(거나 걍 카톡으로 보내주시)면 업데이트하겠습니다.
