@@ -1,13 +1,8 @@
 # [1학년 6반 공지 페이지](https://annyeong-one.github.io/gshs106_gongji)
 - [시험범위 공지 페이지 바로가기](https://annyeong-one.github.io/gshs106_gongji/bumui)
-- **최근 업데이트 : 10월 31일 19시 40분경**
+- **최근 업데이트 : 11월 1일 21시 40분경**
 - _기울어진 일정 : 불확실한 일정_
 - **홍보 : 카카오톡 챗봇 시범 _운영_ [링크](http://pf.kakao.com/_Sjbbxj)** : _역시 언제 죽을지 모름_.
-
-### 11월 1일 (화)
-+ 수행 : 곽수민 지학주제발표
-+ _수행 : 물리 실험 ~~아님 말고~~_
-+ 수행 : 생명과학 글쓰기 최종본 [제출](https://student.gs.hs.kr/student/score/performInfo.do?lecturePerformNo=27931) 21시 마감 - 표절률 7% 이내. 검사지와 함께 업로드.
 
 ### 11월 3일 (목)
 + 기타 : 7교시 자치
@@ -19,7 +14,7 @@
 + 기타 : 국어 독서프로젝트 발표 - 한지와 영주, 가리는 손 조
 
 ### 11월 5일 (토)
-+ 수행 : 국어 독서프로젝트 감상문 초고 작성 감마감 23시 59분까지
++ 수행 : 국어 독서프로젝트 감상문 초고 작성 마감 23시 59분까지
 
 ### 11월 7일 (월)
 + 수행 : 영어 말하기 발표일 (안 한 8명)
@@ -344,6 +339,11 @@
 + 수행 : 생명과학 페임랩 발표: 류현우, 송주은, 한영휘, 최정운 [책 여기 적기](https://docs.google.com/spreadsheets/d/1POyX0LZAXkI3DPqHnJFp6fTGvIeY2MK0aqJ4uc_yzLY/edit?usp=sharing)
 + 기타 : [지구과학 ALP](https://student.gs.hs.kr/student/program/programInfo.do?programNo=309) 19:00~22:00
 + 수행 : [체육 논술](https://student.gs.hs.kr/student/score/performInfo.do?lecturePerformNo=27728) 마감 21:30
+
+### 11월 1일 (화)
++ 수행 : 곽수민 지학주제발표
++ _수행 : 물리 실험 ~~아님 말고~~_
++ 수행 : 생명과학 글쓰기 최종본 [제출](https://student.gs.hs.kr/student/score/performInfo.do?lecturePerformNo=27931) 21시 마감 - 표절률 7% 이내. 검사지와 함께 업로드.
 
 ## 기타
 - [메인 페이지](https://annyeong-one.github.io/) (들어가도 별 쓸데 없음)
