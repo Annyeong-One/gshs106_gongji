@@ -1,6 +1,6 @@
 # [1학년 6반 공지 페이지](https://annyeong-one.github.io/gshs106_gongji)
 - [시험범위 공지 페이지 바로가기](https://annyeong-one.github.io/gshs106_gongji/bumui)
-- **최근 업데이트 : 11월 2일 17시 00분경**
+- **최근 업데이트 : 11월 2일 19시 20분경**
 - _기울어진 일정 : 불확실한 일정_
 - **홍보 : 카카오톡 챗봇 시범 _운영_ [링크](http://pf.kakao.com/_Sjbbxj)** : _역시 언제 죽을지 모름_.
 
@@ -44,7 +44,6 @@
 + **수능주간 원격수업**
 + 기타 : 김민서 개인주제발표
 + 기타 : 곽수민 토크위드켐
-+ 수행 : 생명과학 페임랩 발표: 곽수민, 송정무, 김영진, 정영우 [책 여기 적기](https://docs.google.com/spreadsheets/d/1POyX0LZAXkI3DPqHnJFp6fTGvIeY2MK0aqJ4uc_yzLY/edit?usp=sharing)
 
 ### 11월 15일 (화)
 + **수능주간 원격수업**
@@ -64,7 +63,7 @@
 ### 11월 21일 (월)
 + 기타 : 한영휘 개인주제발표
 + 기타 : 류현우 토크위드켐
-+ 수행 : 생명과학 페임랩 발표: 조형준, 최재웅, 조재원, 손민혁 [책 여기 적기](https://docs.google.com/spreadsheets/d/1POyX0LZAXkI3DPqHnJFp6fTGvIeY2MK0aqJ4uc_yzLY/edit?usp=sharing)
++ 수행 : 생명과학 페임랩 발표: 곽수민, 송정무, 김영진, 정영우 [책 여기 적기](https://docs.google.com/spreadsheets/d/1POyX0LZAXkI3DPqHnJFp6fTGvIeY2MK0aqJ4uc_yzLY/edit?usp=sharing)
 + ~~1972년 11월 21일, 4딸라 협상의 신 김두한이 오렌지 병이었던 고혈압으로 쓰러진 지 정확히 50년이 되는 날이다.~~
 
 ### 11월 22일 (화)
@@ -87,6 +86,7 @@
 
 ### 11월 28일 (월)
 + 기타 : 송주은 개인주제발표
++ 수행 : 생명과학 페임랩 발표: 조형준, 최재웅, 조재원, 손민혁 [책 여기 적기](https://docs.google.com/spreadsheets/d/1POyX0LZAXkI3DPqHnJFp6fTGvIeY2MK0aqJ4uc_yzLY/edit?usp=sharing)
 
 ### 11월 29일 (화)
 + 기타 : 기초R&E 컨퍼런스
@@ -109,10 +109,12 @@
 + 수행 : 조형준 지학주제발표
 
 ### 12월 8일 (목)
+**형준 생일**
 + 기타 : 7교시 학교폭력 예방교육
 + 수행 : 이재용 지학주제발표
 
 ### 12월 13일 (화)
+**민혁 생일**
 + 수행 : 윤지호 지학주제발표
 
 ### 12월 14일 (수)
