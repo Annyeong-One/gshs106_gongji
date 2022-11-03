@@ -4,11 +4,6 @@
 - _기울어진 일정 : 불확실한 일정_
 - **홍보 : 카카오톡 챗봇 시범 _운영_ [링크](http://pf.kakao.com/_Sjbbxj)** : _역시 언제 죽을지 모름_.
 
-### 11월 3일 (목)
-+ 기타 : 7교시 자치
-+ 기타 : 국어 독서프로젝트 발표자료 제출 21시 마감 (한지와 영주, 가리는 손 조)
-+ 숙제 : [물리 연습문제 19장](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8670&lectureOpenNo=10832) - 2, 9, 11, 17, 18, 20, 24, 27, 29, 32 (총 10문항)
-
 ### 11월 4일 (금)
 + 기타 : 김영진 개인주제발표
 + 기타 : 국어 독서프로젝트 발표 - 한지와 영주, 가리는 손 조
@@ -349,6 +344,11 @@
 + 수행 : 곽수민 지학주제발표
 + _수행 : 물리 실험 ~~아님 말고~~_
 + 수행 : 생명과학 글쓰기 최종본 [제출](https://student.gs.hs.kr/student/score/performInfo.do?lecturePerformNo=27931) 21시 마감 - 표절률 7% 이내. 검사지와 함께 업로드.
+
+### 11월 3일 (목)
++ 기타 : 7교시 자치
++ 기타 : 국어 독서프로젝트 발표자료 제출 21시 마감 (한지와 영주, 가리는 손 조)
++ 숙제 : [물리 연습문제 19장](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8670&lectureOpenNo=10832) - 2, 9, 11, 17, 18, 20, 24, 27, 29, 32 (총 10문항)
 
 ## 기타
 - [메인 페이지](https://annyeong-one.github.io/) (들어가도 별 쓸데 없음)
