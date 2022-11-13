@@ -10,10 +10,10 @@
 + 2교시 영어 줌 [링크](https://us05web.zoom.us/j/506446340?pwd=Wmo1MjdsZW42N29TTEh1TkVlbm4xQT09) / 506 446 340 / 009011 / [수업자료 확인](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8741&lectureOpenNo=10800)
 + 3교시 체육
 + 4교시 생물 영상수업 [링크](https://youtu.be/aNGHP6wFSwE)
-+ 5/6교시 화학
++ 5/6교시 화학 줌 [링크](https://us04web.zoom.us/j/4707886743?pwd=VWVlWFp6WDZydHJJKzFLTFM2OHNjUT09) / 470 788 6743 / 2022
 + 기타 : ~~김민서 개인주제발표~~ 수정 예정
 + 기타 : 화학 글쓰기수행
-+ 기타 : ~~곽수민 토크위드켐~~ 
++ 기타 : ~~곽수민 토크위드켐~~ 몰라
 
 ### 11월 15일 (화)
 + **수능주간 원격수업**
