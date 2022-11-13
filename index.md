@@ -1,14 +1,18 @@
 # [1학년 6반 공지 페이지](https://annyeong-one.github.io/gshs106_gongji)
 - [시험범위 공지 페이지 바로가기](https://annyeong-one.github.io/gshs106_gongji/bumui)
-- **최근 업데이트 : 11월 11일 20시 00분경**
+- **최근 업데이트 : 11월 14일 08시 20분경**
 - _기울어진 일정 : 불확실한 일정_
 - **홍보 : 카카오톡 챗봇 시범 _운영_ [링크](http://pf.kakao.com/_Sjbbxj)** : _역시 언제 죽을지 모름_.
 
 ### 11월 14일 (월)
 + **수능주간 원격수업**
-+ 기타 : 김민서 개인주제발표
++ 기타 : ~~김민서 개인주제발표~~ 수정 예정
 + 기타 : 화학 글쓰기수행
-+ 기타 : 곽수민 토크위드켐
++ 기타 : 곽수민 토크위드켐 <- ??
++ 2교시 영어 줌 [링크](https://us05web.zoom.us/j/506446340?pwd=Wmo1MjdsZW42N29TTEh1TkVlbm4xQT09) / 회의 ID: 506 446 340 / 암호: 009011 / [수업자료 확인](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8741&lectureOpenNo=10800)
++ 3교시 체육 줌
++ 4교시 생물 영상수업 [링크](https://youtu.be/aNGHP6wFSwE)
++ 5/6교시 화학 줌 
 
 ### 11월 15일 (화)
 + **수능주간 원격수업**
