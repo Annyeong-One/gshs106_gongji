@@ -1,26 +1,34 @@
 # [1학년 6반 공지 페이지](https://annyeong-one.github.io/gshs106_gongji)
 - [시험범위 공지 페이지 바로가기](https://annyeong-one.github.io/gshs106_gongji/bumui)
-- **최근 업데이트 : 11월 14일 08시 20분경**
+- **최근 업데이트 : 11월 14일 08시 30분경**
 - _기울어진 일정 : 불확실한 일정_
 - **홍보 : 카카오톡 챗봇 시범 _운영_ [링크](http://pf.kakao.com/_Sjbbxj)** : _역시 언제 죽을지 모름_.
 
 ### 11월 14일 (월)
 + **수능주간 원격수업**
++ 조종례실 줌 [링크](https://us05web.zoom.us/j/8733061485?pwd=b2w2M0pqazZ6WWRJeGR5MW9abndxdz09) / 873 306 1485 / 278898
++ 2교시 영어 줌 [링크](https://us05web.zoom.us/j/506446340?pwd=Wmo1MjdsZW42N29TTEh1TkVlbm4xQT09) / 506 446 340 / 009011 / [수업자료 확인](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8741&lectureOpenNo=10800)
++ 3교시 체육
++ 4교시 생물 영상수업 [링크](https://youtu.be/aNGHP6wFSwE)
++ 5/6교시 화학
 + 기타 : ~~김민서 개인주제발표~~ 수정 예정
 + 기타 : 화학 글쓰기수행
-+ 기타 : 곽수민 토크위드켐 <- ??
-+ 2교시 영어 줌 [링크](https://us05web.zoom.us/j/506446340?pwd=Wmo1MjdsZW42N29TTEh1TkVlbm4xQT09) / 회의 ID: 506 446 340 / 암호: 009011 / [수업자료 확인](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8741&lectureOpenNo=10800)
-+ 3교시 체육 줌
-+ 4교시 생물 영상수업 [링크](https://youtu.be/aNGHP6wFSwE)
-+ 5/6교시 화학 줌 
++ 기타 : ~~곽수민 토크위드켐~~ 
 
 ### 11월 15일 (화)
 + **수능주간 원격수업**
++ 조종례실 줌 [링크](https://us05web.zoom.us/j/8733061485?pwd=b2w2M0pqazZ6WWRJeGR5MW9abndxdz09) / 873 306 1485 / 278898
++ 1/2교시 지구과학 줌 [링크](https://zoom.us/j/9515128761?pwd=WGtoRHY2WStvN1I3VGVYN3VBeCtRQT09) / 951 512 8761 / 1234
++ 3/4교시 물리
++ 5~7교시 R&E
 
 ### 11월 16일 (수)
 + **수능주간 원격수업**
-+ 수행 : 정보과학 이미지처리 발표(?)
++ 조종례실 줌 [링크](https://us05web.zoom.us/j/8733061485?pwd=b2w2M0pqazZ6WWRJeGR5MW9abndxdz09) / 873 306 1485 / 278898
++ 1/2교시 정보과학
++ 3/4교시 수학
 + 오후 수업없음
++ 수행 : 정보과학 이미지처리 발표(?)
 
 ### 11월 17일 (목)
 + **대학수학능력평가 학교장재량휴업일**
