@@ -1,19 +1,8 @@
 # [1학년 6반 공지 페이지](https://annyeong-one.github.io/gshs106_gongji)
 - [시험범위 공지 페이지 바로가기](https://annyeong-one.github.io/gshs106_gongji/bumui)
-- **최근 업데이트 : 11월 14일 08시 54분경**
+- **최근 업데이트 : 11월 14일 18시 20분경**
 - _기울어진 일정 : 불확실한 일정_
 - **홍보 : 카카오톡 챗봇 시범 운영 [링크](http://pf.kakao.com/_Sjbbxj)**
-
-### 11월 14일 (월)
-+ **수능주간 원격수업**
-+ 조종례실 줌 [링크](https://us05web.zoom.us/j/8733061485?pwd=b2w2M0pqazZ6WWRJeGR5MW9abndxdz09) / 873 306 1485 / 278898
-+ 2교시 영어 줌 [링크](https://us05web.zoom.us/j/506446340?pwd=Wmo1MjdsZW42N29TTEh1TkVlbm4xQT09) / 506 446 340 / 009011 / [수업자료 확인](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8741&lectureOpenNo=10800)
-+ 3교시 체육
-+ 4교시 생물 영상수업 [링크](https://youtu.be/aNGHP6wFSwE)
-+ 5/6교시 화학 줌 [링크](https://us04web.zoom.us/j/4707886743?pwd=VWVlWFp6WDZydHJJKzFLTFM2OHNjUT09) / 470 788 6743 / 2022
-+ 기타 : ~~김민서 개인주제발표~~ 수정 예정
-+ 기타 : 화학 글쓰기수행
-+ 기타 : ~~곽수민 토크위드켐~~ 몰라
 
 ### 11월 15일 (화)
 + **수능주간 원격수업**
@@ -371,6 +360,17 @@
 + 수행 : 수학 문해평(미분 전범위) 및 토론평가
 + 수행 : 국어 독서프로젝트 발표 - 스펙트럼, 일요일 조
 + 수행 : 국어 독서프로젝트 책대화 스프레드시트 작성 마감
+
+### 11월 14일 (월)
++ **수능주간 원격수업**
++ 조종례실 줌 [링크](https://us05web.zoom.us/j/8733061485?pwd=b2w2M0pqazZ6WWRJeGR5MW9abndxdz09) / 873 306 1485 / 278898
++ 2교시 영어 줌 [링크](https://us05web.zoom.us/j/506446340?pwd=Wmo1MjdsZW42N29TTEh1TkVlbm4xQT09) / 506 446 340 / 009011 / [수업자료 확인](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8741&lectureOpenNo=10800)
++ 3교시 체육
++ 4교시 생물 영상수업 [링크](https://youtu.be/aNGHP6wFSwE)
++ 5/6교시 화학 줌 [링크](https://us04web.zoom.us/j/4707886743?pwd=VWVlWFp6WDZydHJJKzFLTFM2OHNjUT09) / 470 788 6743 / 2022
++ 기타 : ~~김민서 개인주제발표~~ 수정 예정
++ 기타 : 화학 글쓰기수행
++ 기타 : ~~곽수민 토크위드켐~~ 몰라
 
 ## 기타
 - [메인 페이지](https://annyeong-one.github.io/) (들어가도 별 쓸데 없음)
