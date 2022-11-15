@@ -8,15 +8,19 @@
 > 수학II : **_샌즈_**
 -
 
-> 기물실II : **_Serway 일반물리학 18장 ~_**
+> 기물실II : **(11월 15일 공지) Serway 일반물리학 18장 ~ 21장**
 - 18장 직류 회로 : 전체
-- 19장 자기 :
+- 19장 자기 : 전체
+- 20장 유도 전압과 인덕턴스 : 전체
+- 21장 교류 회로와 전자기파 : 21.7 변압기 ~ 21.13 전자기파에서의 도플러 효과
+- * 21장 RLC 회로 내용 제외
 
 > 기화실II : **_화학 II II. ~_**
 - II. 반응 엔탈피 :
 
 > 기생실II : **_Campbell Biology Ch. 14 ~_**
-- Chapter 14. Solving a Genetic Mystery :
+- Chapter 14. Solving a Genetic Mystery : 전체
+- Chapter 15. Linkage and Chromosomes : 전체
 
 > 기지실II : **_지구과학 I+II 2. ~_**
 - I. 해수의 운동 :
