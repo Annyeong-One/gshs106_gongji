@@ -5,18 +5,6 @@
 - **홍보 : 카카오톡 챗봇 시범 운영 [링크](http://pf.kakao.com/_Sjbbxj)**
 - 마크하고 싶다고요? 사이트 맨 밑으로 내려가세요.
 
-### 11월 16일 (수)
-+ **수능주간 원격수업**
-+ 조종례실 줌 [링크](https://us05web.zoom.us/j/8733061485?pwd=b2w2M0pqazZ6WWRJeGR5MW9abndxdz09) / 873 306 1485 / 278898
-+ 1/2교시 정보과학 줌 [링크](https://us06web.zoom.us/j/86421426829?pwd=SXoya2NERzZGdEc4cVVQOXgzMlQ0dz09) / 864 2142 6829 / VN0YGe
-+ 3/4교시 수학
-+ 오후 수업없음
-+ 수행 : 정보과학 이미지처리 발표
-
-### 11월 17일 (목)
-+ **대학수학능력평가 학교장재량휴업일**
-+ _기타 : 인성교육 8회차 수강신청_
-
 ### 11월 18일 (금)
 + **수능주간 학교장재량휴업일**
 
@@ -372,6 +360,18 @@
 + 1/2교시 지구과학 줌 [링크](https://zoom.us/j/9515128761?pwd=WGtoRHY2WStvN1I3VGVYN3VBeCtRQT09) / 951 512 8761 / 1234
 + 3/4교시 물리 줌 [링크](https://zoom.us/j/6412888552?pwd=VzhjVlVmWXk5TVBGbUpzRjRlOFVOdz09) / 641 288 8552 / physics
 + 5~7교시 R&E
+
+### 11월 16일 (수)
++ **수능주간 원격수업**
++ 조종례실 줌 [링크](https://us05web.zoom.us/j/8733061485?pwd=b2w2M0pqazZ6WWRJeGR5MW9abndxdz09) / 873 306 1485 / 278898
++ 1/2교시 정보과학 줌 [링크](https://us06web.zoom.us/j/86421426829?pwd=SXoya2NERzZGdEc4cVVQOXgzMlQ0dz09) / 864 2142 6829 / VN0YGe
++ 3/4교시 수학
++ 오후 수업없음
++ 수행 : 정보과학 이미지처리 발표
+
+### 11월 17일 (목)
++ **대학수학능력평가 학교장재량휴업일**
++ _기타 : 인성교육 8회차 수강신청_
 
 ## 기타
 - [메인 페이지](https://annyeong-one.github.io/) (들어가도 별 쓸데 없음)
