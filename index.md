@@ -6,11 +6,14 @@
 - 마크하고 싶다고요? 사이트 맨 밑으로 내려가세요.
 
 ### 11월 26일 (토)
-+ 수행 : 국어 독서프로젝트 감상문 최종본 제출 마감 23시 55분
++ 수행 : 국어 독서프로젝트 감상문 최종본 [제출](https://student.gs.hs.kr/student/score/performInfo.do?lecturePerformNo=28153) 마감 23시 55분
+
+### 11월 27일 (일)
++ 기타 : 인성교육 소감문 마감
 
 ### 11월 28일 (월)
 + 기타 : 1교시 화학 보강
-+ 수행 : 화학 실험수행평가 - 반응엔탈피 관련
++ 수행 : 화학 실험수행평가 - 헤스 법칙 관련 [참고](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8780&lectureOpenNo=10848)
 + 기타 : 손민혁 개인주제발표
 + 기타 : 류현우 토크위드켐
 + 수행 : 생명과학 페임랩 발표: 조형준, 최재웅, 조재원, 손민혁 [책 여기 적기](https://docs.google.com/spreadsheets/d/1POyX0LZAXkI3DPqHnJFp6fTGvIeY2MK0aqJ4uc_yzLY/edit?usp=sharing)
@@ -32,6 +35,8 @@
 
 ### 12월 2일 (금)
 + 기타 : 23학년도 1학기 수강신청 시작일
++ 기타 : 국어 프린트 생활글 평가기준 숙제
++ 기타 : 현사법 유언 시나리오 및 유언장 써오기 (30분 더 주어짐), 기타 예전에 한 것들 가지고 오기 [참고](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8759&lectureOpenNo=10784)
 + 기타 : 류현우 개인주제발표
 + 기타 : 2학년 1학기 수강신청 시작 - 제2외국어 2학점 (필수 24)
 
@@ -40,7 +45,7 @@
 
 ### 12월 5일 (월)
 + 기타 : 최정운 개인주제발표
-+ 수행 : 화학 실험수행평가 - 반응속도 
++ 수행 : 화학 실험수행평가 - 반응속도 관련 [참고](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8781&lectureOpenNo=10848)
 + 수행 : 영어 에세이 글쓰기
 
 ### 12월 6일 (화)
