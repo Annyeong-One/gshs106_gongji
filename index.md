@@ -1,15 +1,9 @@
 # [1학년 6반 공지 페이지](https://annyeong-one.github.io/gshs106_gongji)
 - [시험범위 공지 페이지 바로가기](https://annyeong-one.github.io/gshs106_gongji/bumui)
-- **최근 업데이트 : 11월 25일 17시 30분경**
+- **최근 업데이트 : 11월 28일 08시 50분경**
 - _기울어진 일정 : 불확실한 일정_
 - **홍보 : 카카오톡 챗봇 시범 운영 [링크](http://pf.kakao.com/_Sjbbxj)**
 - 마크하고 싶다고요? 사이트 맨 밑으로 내려가세요.
-
-### 11월 26일 (토)
-+ 수행 : 국어 독서프로젝트 감상문 최종본 [제출](https://student.gs.hs.kr/student/score/performInfo.do?lecturePerformNo=28153) 마감 23시 55분
-
-### 11월 27일 (일)
-+ 기타 : 인성교육 소감문 마감
 
 ### 11월 28일 (월)
 + 기타 : 1교시 화학 보강
@@ -396,6 +390,12 @@
 ### 11월 25일 (금)
 + 기타 : 손민혁 개인주제발표
 + 수행 : 7교시 영어단어시험 - 21~28 및 39~50일까지, 7교시 시작하는 즉시 15분.
+
+### 11월 26일 (토)
++ 수행 : 국어 독서프로젝트 감상문 최종본 [제출](https://student.gs.hs.kr/student/score/performInfo.do?lecturePerformNo=28153) 마감 23시 55분
+
+### 11월 27일 (일)
++ 기타 : 인성교육 소감문 마감
 
 ## 기타
 - [메인 페이지](https://annyeong-one.github.io/) (들어가도 별 쓸데 없음)
