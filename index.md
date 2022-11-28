@@ -5,13 +5,6 @@
 - **홍보 : 카카오톡 챗봇 시범 운영 [링크](http://pf.kakao.com/_Sjbbxj)**
 - 마크하고 싶다고요? 사이트 맨 밑으로 내려가세요.
 
-### 11월 28일 (월)
-+ 기타 : 1교시 화학 보강
-+ 수행 : 화학 실험수행평가 - 헤스 법칙 관련 [참고](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8780&lectureOpenNo=10848)
-+ 기타 : 손민혁 개인주제발표
-+ 기타 : 류현우 토크위드켐
-+ 수행 : 생명과학 페임랩 발표: 조형준, 최재웅, 조재원, 손민혁 [책 여기 적기](https://docs.google.com/spreadsheets/d/1POyX0LZAXkI3DPqHnJFp6fTGvIeY2MK0aqJ4uc_yzLY/edit?usp=sharing)
-
 ### 11월 29일 (화)
 + 기타 : 기초R&E 컨퍼런스
 + 수행 : 송주은 지학주제발표
@@ -396,6 +389,13 @@
 
 ### 11월 27일 (일)
 + 기타 : 인성교육 소감문 마감
+
+### 11월 28일 (월)
++ 기타 : 1교시 화학 보강
++ 수행 : 화학 실험수행평가 - 헤스 법칙 관련 [참고](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8780&lectureOpenNo=10848)
++ 기타 : 손민혁 개인주제발표
++ 기타 : 류현우 토크위드켐
++ 수행 : 생명과학 페임랩 발표: 조형준, 최재웅, 조재원, 손민혁 [책 여기 적기](https://docs.google.com/spreadsheets/d/1POyX0LZAXkI3DPqHnJFp6fTGvIeY2MK0aqJ4uc_yzLY/edit?usp=sharing)
 
 ## 기타
 - [메인 페이지](https://annyeong-one.github.io/) (들어가도 별 쓸데 없음)
