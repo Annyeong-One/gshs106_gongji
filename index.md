@@ -1,24 +1,9 @@
 # [1학년 6반 공지 페이지](https://annyeong-one.github.io/gshs106_gongji)
 - [시험범위 공지 페이지 바로가기](https://annyeong-one.github.io/gshs106_gongji/bumui)
-- **최근 업데이트 : 11월 28일 08시 50분경**
+- **최근 업데이트 : 12월 1일 19시 00분경**
 - _기울어진 일정 : 불확실한 일정_
 - **홍보 : 카카오톡 챗봇 시범 운영 [링크](http://pf.kakao.com/_Sjbbxj)**
 - 마크하고 싶다고요? 사이트 맨 밑으로 내려가세요.
-
-### 11월 29일 (화)
-+ 기타 : 기초R&E 컨퍼런스
-+ 수행 : 송주은 지학주제발표
-+ 수행 : 물리 심화실험 2, 3차시, 521호
-
-### 11월 30일 (수)
-+ 기타 : 송주은 개인주제발표
-+ 기타 : 윤지호 토크위드켐
-
-### 12월 1일 (목)
-+ _기타 : 7교시 나우누리프로젝트 발표회_
-+ 수행 : 김민서 지학주제발표
-+ 수행 : 물리 심화실험 4차시, 511호
-+ 수행 : 영어 프린트 포트폴리오 제출일 [체크리스트 확인](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8767&lectureOpenNo=10800)
 
 ### 12월 2일 (금)
 + 기타 : 23학년도 1학기 수강신청 시작일
@@ -396,6 +381,21 @@
 + 기타 : 손민혁 개인주제발표
 + 기타 : 류현우 토크위드켐
 + 수행 : 생명과학 페임랩 발표: 조형준, 최재웅, 조재원, 손민혁 [책 여기 적기](https://docs.google.com/spreadsheets/d/1POyX0LZAXkI3DPqHnJFp6fTGvIeY2MK0aqJ4uc_yzLY/edit?usp=sharing)
+
+### 11월 29일 (화)
++ 기타 : 기초R&E 컨퍼런스
++ 수행 : 송주은 지학주제발표
++ 수행 : 물리 심화실험 2, 3차시, 521호
+
+### 11월 30일 (수)
++ 기타 : 송주은 개인주제발표
++ 기타 : 윤지호 토크위드켐
+
+### 12월 1일 (목)
++ _기타 : 7교시 나우누리프로젝트 발표회_
++ 수행 : 김민서 지학주제발표
++ 수행 : 물리 심화실험 4차시, 511호
++ 수행 : 영어 프린트 포트폴리오 제출일 [체크리스트 확인](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8767&lectureOpenNo=10800)
 
 ## 기타
 - [메인 페이지](https://annyeong-one.github.io/) (들어가도 별 쓸데 없음)
