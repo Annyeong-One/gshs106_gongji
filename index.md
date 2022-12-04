@@ -5,16 +5,6 @@
 - **홍보 : 카카오톡 챗봇 시범 운영 [링크](http://pf.kakao.com/_Sjbbxj)**
 - 마크하고 싶다고요? 사이트 맨 밑으로 내려가세요.
 
-### 12월 2일 (금)
-+ 기타 : 23학년도 1학기 수강신청 시작일
-+ 기타 : 국어 프린트 생활글 평가기준 숙제
-+ 기타 : 현사법 유언 시나리오 및 유언장 써오기 (30분 더 주어짐), 기타 예전에 한 것들 가지고 오기 [참고](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8759&lectureOpenNo=10784)
-+ 기타 : 류현우 개인주제발표
-+ 기타 : 2학년 1학기 수강신청 시작 - 제2외국어 2학점 (필수 24)
-
-### 12월 4일 (일)
-+ 기타 : 기초R&E 발표자료 제출 마감 14:00
-
 ### 12월 5일 (월)
 + 기타 : 최정운 개인주제발표
 + 수행 : 화학 실험수행평가 - 반응속도 관련 [참고](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8781&lectureOpenNo=10848)
@@ -396,6 +386,16 @@
 + 수행 : 김민서 지학주제발표
 + 수행 : 물리 심화실험 4차시, 511호
 + 수행 : 영어 프린트 포트폴리오 제출일 [체크리스트 확인](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8767&lectureOpenNo=10800)
+
+### 12월 2일 (금)
++ 기타 : 23학년도 1학기 수강신청 시작일
++ 기타 : 국어 프린트 생활글 평가기준 숙제
++ 기타 : 현사법 유언 시나리오 및 유언장 써오기 (30분 더 주어짐), 기타 예전에 한 것들 가지고 오기 [참고](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8759&lectureOpenNo=10784)
++ 기타 : 류현우 개인주제발표
++ 기타 : 2학년 1학기 수강신청 시작 - 제2외국어 2학점 (필수 24)
+
+### 12월 4일 (일)
++ 기타 : 기초R&E 발표자료 제출 마감 14:00
 
 ## 기타
 - [메인 페이지](https://annyeong-one.github.io/) (들어가도 별 쓸데 없음)
