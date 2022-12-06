@@ -5,17 +5,6 @@
 - **홍보 : 카카오톡 챗봇 시범 운영 [링크](http://pf.kakao.com/_Sjbbxj)**
 - 마크하고 싶다고요? 사이트 맨 밑으로 내려가세요.
 
-### 12월 5일 (월)
-+ 기타 : 최정운 개인주제발표
-+ 수행 : 화학 실험수행평가 - 반응속도 관련 [참고](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8781&lectureOpenNo=10848)
-+ 수행 : 영어 에세이 글쓰기
-
-### 12월 6일 (화)
-+ **기초R&E 발표회**
-+ 수행 : 한영휘 지학주제발표
-+ 수행 : 조형준 지학주제발표
-+ 수행 : 물리 심화실험 5, 6차시, 521호
-
 ### 12월 7일 (수)
 + 기타 : 최정운 토크위드켐
 + 수행 : 정보과학 사운드처리 발표 수행평가
@@ -25,6 +14,9 @@
 + 기타 : 7교시 학교폭력 예방교육
 + 기타 : 기초R&E 최종보고서 제출 마감 14:00 ~~텍으로 써보시는건 어때요...~~
 + 수행 : 이재용 지학주제발표
+
+### 12월 11일 (일)
++ 수행 : 심화실험 보고서 마감 21:00
 
 ### 12월 12일 (월)
 + 기타 : 2학년 1학기 수강신청 및 수강계획 작성 마감 17:00
@@ -76,7 +68,6 @@
 + **성적공개**
 
 ### 날짜 미정 / 기타
-+ 기타 : 화학 5분발표 - 주제 선정해 [여기 적기](https://docs.google.com/spreadsheets/d/1zoAqTt1K-QShH-oJtEsJizc6qr32gOkz7HzthEcg1uo/edit?usp=sharing) + 발표자료(선택) 있으면 [여기 업로드](https://drive.google.com/drive/folders/1x_2ZIfD2LNFTXuZ_wxCam0BzxlAE0gLb?usp=sharing)
 + 기타 : [국어 도장판 가지고 다니기](https://annyeong-one.github.io/Secret-ish/ "치밀하네요, 여기 링크가 왜 있는지 확인해볼 사람이 누가 있겠어요.")
 + 기타 : 수학 창의활동 모음집 [링크](https://drive.google.com/drive/folders/0AOXBfQ3PnbvpUk9PVA) - 학교 계정으로 로그인
 + 사심 : [코포 앳코더 등등 일](https://www.acmicpc.net/contest/other/list)[정](https://ivark.github.io/)
@@ -396,6 +387,17 @@
 
 ### 12월 4일 (일)
 + 기타 : 기초R&E 발표자료 제출 마감 14:00
+
+### 12월 5일 (월)
++ 기타 : 최정운 개인주제발표
++ 수행 : 화학 실험수행평가 - 반응속도 관련 [참고](https://student.gs.hs.kr/student/score/noticeInfo.do?lectureNoticeNo=8781&lectureOpenNo=10848)
++ 수행 : 영어 에세이 글쓰기
+
+### 12월 6일 (화)
++ **기초R&E 발표회**
++ 수행 : 한영휘 지학주제발표
++ 수행 : 조형준 지학주제발표
++ 수행 : 물리 심화실험 5, 6차시, 521호
 
 ## 기타
 - [메인 페이지](https://annyeong-one.github.io/) (들어가도 별 쓸데 없음)
