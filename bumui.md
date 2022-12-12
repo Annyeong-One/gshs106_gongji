@@ -23,8 +23,8 @@
 
 > 기생실II : **_Campbell Biology Ch. 14 ~ 16_**
 - Chapter 14. Solving a Genetic Mystery : 전체
-- Chapter 15. Linkage and Chromosomes : 전체
-- Chapter 16. Nucleic Acids and Inheritance : 전체
+ Chapter 15. Linkage and Chromosomes : 전체
+ Chapter 16. Nucleic Acids and Inheritance : 전체
 
 > 기지실II : **_지구과학 I+II 2. ~ 3._**
 - 2. I. 해수의 운동 : 전체
@@ -33,8 +33,13 @@
 - 3. I. 오염 : 전체
 - 3. II. 기후변화 : 전체
 
-> 영어II : **_샌즈_**
-- 책 돌려받으면 적어드릴게요
+> 영어II : **(_12월 8일 공지_) Pathways 2 Unit 6 ~ 10**
+- Unit 6. Animals and Medicine + 학습지 2장
+- Unit 7. Nature's Fury + 학습지 1장
+- Unit 8. Building Wonders + 학습지 2장
+- Unit 9. Form and Formation
+- Unit 10. Smart Advice + 학습지 1장
+- Steve Jobs Commencement Speech 학습지 2장
 
 > 현사법 : **아래 참조**
 - 정의
