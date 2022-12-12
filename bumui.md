@@ -23,8 +23,8 @@
 
 > 기생실II : **_Campbell Biology Ch. 14 ~ 16_**
 - Chapter 14. Solving a Genetic Mystery : 전체
- Chapter 15. Linkage and Chromosomes : 전체
- Chapter 16. Nucleic Acids and Inheritance : 전체
+- Chapter 15. Linkage and Chromosomes : 전체
+- Chapter 16. Nucleic Acids and Inheritance : 전체
 
 > 기지실II : **_지구과학 I+II 2. ~ 3._**
 - 2. I. 해수의 운동 : 전체
